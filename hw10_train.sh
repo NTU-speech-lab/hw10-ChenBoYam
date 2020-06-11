@@ -1,0 +1,1 @@
+python hw10_anomaly_detection.py $1 $2 

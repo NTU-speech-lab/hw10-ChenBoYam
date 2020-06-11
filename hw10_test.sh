@@ -1,0 +1,1 @@
+python hw10_test_new.py $1 $2 $3
